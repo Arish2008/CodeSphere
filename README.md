@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arish Sethi</h1>
 <h3 align="center">"Empowering Ideas with Code and Creativity"</h3>
 
-- 🔭 I’m currently working on **AI/ML**
-
-- 🌱 I’m currently learning **Artificial intelligence and Machine learning**
-
-- 👯 I’m looking to collaborate on **python projects**
-
-- ⚡ Fun fact **Turning passion into projects before even graduating!!**
+🔭 Currently Working On: AI/ML projects that explore automation, robotics, and more.
+🌱 Currently Learning: The depths of Artificial Intelligence and Machine Learning, and how to apply them to solve real-world problems.
+👯 Looking to Collaborate On: Python-based projects, especially in AI, ML, and automation.
+⚡ Fun Fact: Turning passion into projects before even graduating!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
